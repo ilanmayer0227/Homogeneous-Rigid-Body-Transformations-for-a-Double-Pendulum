@@ -1,0 +1,2 @@
+# Homogeneous-Rigid-Body-Transformations-for-a-Double-Pendulum
+The use of Homogeneous Rigid Body Transformations allows one to rotate and translate frames (coordinate systems) to displace them from an initial world frame. One can position relative coordinate systems and track back configuration variable values to the world frame. Equations of motion can then be solved with respect to the world frame. 
